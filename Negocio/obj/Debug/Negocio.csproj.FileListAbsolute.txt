@@ -1,0 +1,319 @@
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega1Vistas1\Negocio\bin\Debug\Negocio.dll
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega1Vistas1\Negocio\bin\Debug\Negocio.pdb
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega1Vistas1\Negocio\bin\Debug\Dao.dll
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega1Vistas1\Negocio\bin\Debug\Entidades.dll
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega1Vistas1\Negocio\bin\Debug\Dao.pdb
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega1Vistas1\Negocio\bin\Debug\Entidades.pdb
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega1Vistas1\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega1Vistas1\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega1Vistas1\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega1Vistas1\Negocio\obj\Debug\Negocio.dll
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega1Vistas1\Negocio\obj\Debug\Negocio.pdb
+C:\Users\elico\OneDrive\Escritorio\Entrega1Vistas1\Negocio\bin\Debug\Negocio.dll
+C:\Users\elico\OneDrive\Escritorio\Entrega1Vistas1\Negocio\bin\Debug\Negocio.pdb
+C:\Users\elico\OneDrive\Escritorio\Entrega1Vistas1\Negocio\bin\Debug\Dao.dll
+C:\Users\elico\OneDrive\Escritorio\Entrega1Vistas1\Negocio\bin\Debug\Entidades.dll
+C:\Users\elico\OneDrive\Escritorio\Entrega1Vistas1\Negocio\bin\Debug\Dao.pdb
+C:\Users\elico\OneDrive\Escritorio\Entrega1Vistas1\Negocio\bin\Debug\Entidades.pdb
+C:\Users\elico\OneDrive\Escritorio\Entrega1Vistas1\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\elico\OneDrive\Escritorio\Entrega1Vistas1\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\elico\OneDrive\Escritorio\Entrega1Vistas1\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\elico\OneDrive\Escritorio\Entrega1Vistas1\Negocio\obj\Debug\Negocio.dll
+C:\Users\elico\OneDrive\Escritorio\Entrega1Vistas1\Negocio\obj\Debug\Negocio.pdb
+C:\Users\PAIS GAMER\Desktop\Entrega1Vistas1\Negocio\bin\Debug\Negocio.dll
+C:\Users\PAIS GAMER\Desktop\Entrega1Vistas1\Negocio\bin\Debug\Negocio.pdb
+C:\Users\PAIS GAMER\Desktop\Entrega1Vistas1\Negocio\bin\Debug\Dao.dll
+C:\Users\PAIS GAMER\Desktop\Entrega1Vistas1\Negocio\bin\Debug\Entidades.dll
+C:\Users\PAIS GAMER\Desktop\Entrega1Vistas1\Negocio\bin\Debug\Dao.pdb
+C:\Users\PAIS GAMER\Desktop\Entrega1Vistas1\Negocio\bin\Debug\Entidades.pdb
+C:\Users\PAIS GAMER\Desktop\Entrega1Vistas1\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\PAIS GAMER\Desktop\Entrega1Vistas1\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PAIS GAMER\Desktop\Entrega1Vistas1\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\PAIS GAMER\Desktop\Entrega1Vistas1\Negocio\obj\Debug\Negocio.dll
+C:\Users\PAIS GAMER\Desktop\Entrega1Vistas1\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Tamii\Desktop\Nueva carpeta\Entrega1Vistas1\Negocio\bin\Debug\Negocio.dll
+C:\Users\Tamii\Desktop\Nueva carpeta\Entrega1Vistas1\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Tamii\Desktop\Nueva carpeta\Entrega1Vistas1\Negocio\bin\Debug\Dao.dll
+C:\Users\Tamii\Desktop\Nueva carpeta\Entrega1Vistas1\Negocio\bin\Debug\Entidades.dll
+C:\Users\Tamii\Desktop\Nueva carpeta\Entrega1Vistas1\Negocio\bin\Debug\Dao.pdb
+C:\Users\Tamii\Desktop\Nueva carpeta\Entrega1Vistas1\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Tamii\Desktop\Nueva carpeta\Entrega1Vistas1\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Tamii\Desktop\Nueva carpeta\Entrega1Vistas1\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Tamii\Desktop\Nueva carpeta\Entrega1Vistas1\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Tamii\Desktop\Nueva carpeta\Entrega1Vistas1\Negocio\obj\Debug\Negocio.dll
+C:\Users\Tamii\Desktop\Nueva carpeta\Entrega1Vistas1\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Tamii\Desktop\Nueva carpeta\2\Entrega1Vistas1\Negocio\bin\Debug\Negocio.dll
+C:\Users\Tamii\Desktop\Nueva carpeta\2\Entrega1Vistas1\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Tamii\Desktop\Nueva carpeta\2\Entrega1Vistas1\Negocio\bin\Debug\Dao.dll
+C:\Users\Tamii\Desktop\Nueva carpeta\2\Entrega1Vistas1\Negocio\bin\Debug\Entidades.dll
+C:\Users\Tamii\Desktop\Nueva carpeta\2\Entrega1Vistas1\Negocio\bin\Debug\Dao.pdb
+C:\Users\Tamii\Desktop\Nueva carpeta\2\Entrega1Vistas1\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Tamii\Desktop\Nueva carpeta\2\Entrega1Vistas1\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Tamii\Desktop\Nueva carpeta\2\Entrega1Vistas1\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Tamii\Desktop\Nueva carpeta\2\Entrega1Vistas1\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Tamii\Desktop\Nueva carpeta\2\Entrega1Vistas1\Negocio\obj\Debug\Negocio.dll
+C:\Users\Tamii\Desktop\Nueva carpeta\2\Entrega1Vistas1\Negocio\obj\Debug\Negocio.pdb
+C:\Users\elico\OneDrive\Escritorio\vf\Entrega1Vistas1\Negocio\bin\Debug\Negocio.dll
+C:\Users\elico\OneDrive\Escritorio\vf\Entrega1Vistas1\Negocio\bin\Debug\Negocio.pdb
+C:\Users\elico\OneDrive\Escritorio\vf\Entrega1Vistas1\Negocio\bin\Debug\Dao.dll
+C:\Users\elico\OneDrive\Escritorio\vf\Entrega1Vistas1\Negocio\bin\Debug\Entidades.dll
+C:\Users\elico\OneDrive\Escritorio\vf\Entrega1Vistas1\Negocio\bin\Debug\Dao.pdb
+C:\Users\elico\OneDrive\Escritorio\vf\Entrega1Vistas1\Negocio\bin\Debug\Entidades.pdb
+C:\Users\elico\OneDrive\Escritorio\vf\Entrega1Vistas1\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\elico\OneDrive\Escritorio\vf\Entrega1Vistas1\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\elico\OneDrive\Escritorio\vf\Entrega1Vistas1\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\elico\OneDrive\Escritorio\vf\Entrega1Vistas1\Negocio\obj\Debug\Negocio.dll
+C:\Users\elico\OneDrive\Escritorio\vf\Entrega1Vistas1\Negocio\obj\Debug\Negocio.pdb
+C:\Users\PAIS GAMER\Desktop\Entrega2\Negocio\bin\Debug\Negocio.dll
+C:\Users\PAIS GAMER\Desktop\Entrega2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\PAIS GAMER\Desktop\Entrega2\Negocio\bin\Debug\Dao.dll
+C:\Users\PAIS GAMER\Desktop\Entrega2\Negocio\bin\Debug\Entidades.dll
+C:\Users\PAIS GAMER\Desktop\Entrega2\Negocio\bin\Debug\Dao.pdb
+C:\Users\PAIS GAMER\Desktop\Entrega2\Negocio\bin\Debug\Entidades.pdb
+C:\Users\PAIS GAMER\Desktop\Entrega2\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\PAIS GAMER\Desktop\Entrega2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PAIS GAMER\Desktop\Entrega2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\PAIS GAMER\Desktop\Entrega2\Negocio\obj\Debug\Negocio.dll
+C:\Users\PAIS GAMER\Desktop\Entrega2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Tamii\Downloads\Entrega2\Negocio\bin\Debug\Negocio.dll
+C:\Users\Tamii\Downloads\Entrega2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Tamii\Downloads\Entrega2\Negocio\bin\Debug\Dao.dll
+C:\Users\Tamii\Downloads\Entrega2\Negocio\bin\Debug\Entidades.dll
+C:\Users\Tamii\Downloads\Entrega2\Negocio\bin\Debug\Dao.pdb
+C:\Users\Tamii\Downloads\Entrega2\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Tamii\Downloads\Entrega2\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Tamii\Downloads\Entrega2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Tamii\Downloads\Entrega2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Tamii\Downloads\Entrega2\Negocio\obj\Debug\Negocio.dll
+C:\Users\Tamii\Downloads\Entrega2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega2\Negocio\bin\Debug\Negocio.dll
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega2\Negocio\bin\Debug\Dao.dll
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega2\Negocio\bin\Debug\Entidades.dll
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega2\Negocio\bin\Debug\Dao.pdb
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega2\Negocio\bin\Debug\Entidades.pdb
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega2\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega2\Negocio\obj\Debug\Negocio.dll
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\elico\OneDrive\Escritorio\iuuu\Entrega2\Negocio\bin\Debug\Negocio.dll
+C:\Users\elico\OneDrive\Escritorio\iuuu\Entrega2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\elico\OneDrive\Escritorio\iuuu\Entrega2\Negocio\bin\Debug\Dao.dll
+C:\Users\elico\OneDrive\Escritorio\iuuu\Entrega2\Negocio\bin\Debug\Entidades.dll
+C:\Users\elico\OneDrive\Escritorio\iuuu\Entrega2\Negocio\bin\Debug\Dao.pdb
+C:\Users\elico\OneDrive\Escritorio\iuuu\Entrega2\Negocio\bin\Debug\Entidades.pdb
+C:\Users\elico\OneDrive\Escritorio\iuuu\Entrega2\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\elico\OneDrive\Escritorio\iuuu\Entrega2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\elico\OneDrive\Escritorio\iuuu\Entrega2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\elico\OneDrive\Escritorio\iuuu\Entrega2\Negocio\obj\Debug\Negocio.dll
+C:\Users\elico\OneDrive\Escritorio\iuuu\Entrega2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\elico\OneDrive\Escritorio\Entrega2\Negocio\bin\Debug\Negocio.dll
+C:\Users\elico\OneDrive\Escritorio\Entrega2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\elico\OneDrive\Escritorio\Entrega2\Negocio\bin\Debug\Dao.dll
+C:\Users\elico\OneDrive\Escritorio\Entrega2\Negocio\bin\Debug\Entidades.dll
+C:\Users\elico\OneDrive\Escritorio\Entrega2\Negocio\bin\Debug\Dao.pdb
+C:\Users\elico\OneDrive\Escritorio\Entrega2\Negocio\bin\Debug\Entidades.pdb
+C:\Users\elico\OneDrive\Escritorio\Entrega2\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\elico\OneDrive\Escritorio\Entrega2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\elico\OneDrive\Escritorio\Entrega2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\elico\OneDrive\Escritorio\Entrega2\Negocio\obj\Debug\Negocio.dll
+C:\Users\elico\OneDrive\Escritorio\Entrega2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\tyrae\OneDrive\Desktop\prog 3\Entrega2\Negocio\bin\Debug\Negocio.dll
+C:\Users\tyrae\OneDrive\Desktop\prog 3\Entrega2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\tyrae\OneDrive\Desktop\prog 3\Entrega2\Negocio\bin\Debug\Dao.dll
+C:\Users\tyrae\OneDrive\Desktop\prog 3\Entrega2\Negocio\bin\Debug\Entidades.dll
+C:\Users\tyrae\OneDrive\Desktop\prog 3\Entrega2\Negocio\bin\Debug\Dao.pdb
+C:\Users\tyrae\OneDrive\Desktop\prog 3\Entrega2\Negocio\bin\Debug\Entidades.pdb
+C:\Users\tyrae\OneDrive\Desktop\prog 3\Entrega2\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\tyrae\OneDrive\Desktop\prog 3\Entrega2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\tyrae\OneDrive\Desktop\prog 3\Entrega2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\tyrae\OneDrive\Desktop\prog 3\Entrega2\Negocio\obj\Debug\Negocio.dll
+C:\Users\tyrae\OneDrive\Desktop\prog 3\Entrega2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Tamii\Downloads\Entrega3\Entrega3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Tamii\Downloads\Entrega3\Entrega3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Tamii\Downloads\Entrega3\Entrega3\Negocio\bin\Debug\Dao.dll
+C:\Users\Tamii\Downloads\Entrega3\Entrega3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Tamii\Downloads\Entrega3\Entrega3\Negocio\bin\Debug\Dao.pdb
+C:\Users\Tamii\Downloads\Entrega3\Entrega3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Tamii\Downloads\Entrega3\Entrega3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Tamii\Downloads\Entrega3\Entrega3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Tamii\Downloads\Entrega3\Entrega3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Tamii\Downloads\Entrega3\Entrega3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Tamii\Downloads\Entrega3\Entrega3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Tamii\Desktop\prueba entrega3\Entrega3\Entrega3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Tamii\Desktop\prueba entrega3\Entrega3\Entrega3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Tamii\Desktop\prueba entrega3\Entrega3\Entrega3\Negocio\bin\Debug\Dao.dll
+C:\Users\Tamii\Desktop\prueba entrega3\Entrega3\Entrega3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Tamii\Desktop\prueba entrega3\Entrega3\Entrega3\Negocio\bin\Debug\Dao.pdb
+C:\Users\Tamii\Desktop\prueba entrega3\Entrega3\Entrega3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Tamii\Desktop\prueba entrega3\Entrega3\Entrega3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Tamii\Desktop\prueba entrega3\Entrega3\Entrega3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Tamii\Desktop\prueba entrega3\Entrega3\Entrega3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Tamii\Desktop\prueba entrega3\Entrega3\Entrega3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Tamii\Desktop\prueba entrega3\Entrega3\Entrega3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\PAIS GAMER\Desktop\Entrega__3\Negocio\bin\Debug\Negocio.dll
+C:\Users\PAIS GAMER\Desktop\Entrega__3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\PAIS GAMER\Desktop\Entrega__3\Negocio\bin\Debug\Dao.dll
+C:\Users\PAIS GAMER\Desktop\Entrega__3\Negocio\bin\Debug\Entidades.dll
+C:\Users\PAIS GAMER\Desktop\Entrega__3\Negocio\bin\Debug\Dao.pdb
+C:\Users\PAIS GAMER\Desktop\Entrega__3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\PAIS GAMER\Desktop\Entrega__3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\PAIS GAMER\Desktop\Entrega__3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PAIS GAMER\Desktop\Entrega__3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\PAIS GAMER\Desktop\Entrega__3\Negocio\obj\Debug\Negocio.dll
+C:\Users\PAIS GAMER\Desktop\Entrega__3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega__3\Negocio\bin\Debug\Negocio.dll
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega__3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega__3\Negocio\bin\Debug\Dao.dll
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega__3\Negocio\bin\Debug\Entidades.dll
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega__3\Negocio\bin\Debug\Dao.pdb
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega__3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega__3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega__3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega__3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega__3\Negocio\obj\Debug\Negocio.dll
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega__3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\elico\OneDrive\Escritorio\lol\Entrega__3\Negocio\bin\Debug\Negocio.dll
+C:\Users\elico\OneDrive\Escritorio\lol\Entrega__3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\elico\OneDrive\Escritorio\lol\Entrega__3\Negocio\bin\Debug\Dao.dll
+C:\Users\elico\OneDrive\Escritorio\lol\Entrega__3\Negocio\bin\Debug\Entidades.dll
+C:\Users\elico\OneDrive\Escritorio\lol\Entrega__3\Negocio\bin\Debug\Dao.pdb
+C:\Users\elico\OneDrive\Escritorio\lol\Entrega__3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\elico\OneDrive\Escritorio\lol\Entrega__3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\elico\OneDrive\Escritorio\lol\Entrega__3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\elico\OneDrive\Escritorio\lol\Entrega__3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\elico\OneDrive\Escritorio\lol\Entrega__3\Negocio\obj\Debug\Negocio.dll
+C:\Users\elico\OneDrive\Escritorio\lol\Entrega__3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Tamii\Downloads\Entrega3\Entrega__3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Tamii\Downloads\Entrega3\Entrega__3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Tamii\Downloads\Entrega3\Entrega__3\Negocio\bin\Debug\Dao.dll
+C:\Users\Tamii\Downloads\Entrega3\Entrega__3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Tamii\Downloads\Entrega3\Entrega__3\Negocio\bin\Debug\Dao.pdb
+C:\Users\Tamii\Downloads\Entrega3\Entrega__3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Tamii\Downloads\Entrega3\Entrega__3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Tamii\Downloads\Entrega3\Entrega__3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Tamii\Downloads\Entrega3\Entrega__3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Tamii\Downloads\Entrega3\Entrega__3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Tamii\Downloads\Entrega3\Entrega__3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Tamii\Downloads\Entrega__3\Entrega__3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Tamii\Downloads\Entrega__3\Entrega__3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Tamii\Downloads\Entrega__3\Entrega__3\Negocio\bin\Debug\Dao.dll
+C:\Users\Tamii\Downloads\Entrega__3\Entrega__3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Tamii\Downloads\Entrega__3\Entrega__3\Negocio\bin\Debug\Dao.pdb
+C:\Users\Tamii\Downloads\Entrega__3\Entrega__3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Tamii\Downloads\Entrega__3\Entrega__3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Tamii\Downloads\Entrega__3\Entrega__3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Tamii\Downloads\Entrega__3\Entrega__3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Tamii\Downloads\Entrega__3\Entrega__3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Tamii\Downloads\Entrega__3\Entrega__3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Tamii\Downloads\Entrega 3\Entrega 3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Tamii\Downloads\Entrega 3\Entrega 3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Tamii\Downloads\Entrega 3\Entrega 3\Negocio\bin\Debug\Dao.dll
+C:\Users\Tamii\Downloads\Entrega 3\Entrega 3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Tamii\Downloads\Entrega 3\Entrega 3\Negocio\bin\Debug\Dao.pdb
+C:\Users\Tamii\Downloads\Entrega 3\Entrega 3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Tamii\Downloads\Entrega 3\Entrega 3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Tamii\Downloads\Entrega 3\Entrega 3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Tamii\Downloads\Entrega 3\Entrega 3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Tamii\Downloads\Entrega 3\Entrega 3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Tamii\Downloads\Entrega 3\Entrega 3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\PAIS GAMER\Desktop\Entrega_3\Negocio\bin\Debug\Negocio.dll
+C:\Users\PAIS GAMER\Desktop\Entrega_3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\PAIS GAMER\Desktop\Entrega_3\Negocio\bin\Debug\Dao.dll
+C:\Users\PAIS GAMER\Desktop\Entrega_3\Negocio\bin\Debug\Entidades.dll
+C:\Users\PAIS GAMER\Desktop\Entrega_3\Negocio\bin\Debug\Dao.pdb
+C:\Users\PAIS GAMER\Desktop\Entrega_3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\PAIS GAMER\Desktop\Entrega_3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\PAIS GAMER\Desktop\Entrega_3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PAIS GAMER\Desktop\Entrega_3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\PAIS GAMER\Desktop\Entrega_3\Negocio\obj\Debug\Negocio.dll
+C:\Users\PAIS GAMER\Desktop\Entrega_3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega_3\Negocio\bin\Debug\Negocio.dll
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega_3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega_3\Negocio\bin\Debug\Dao.dll
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega_3\Negocio\bin\Debug\Entidades.dll
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega_3\Negocio\bin\Debug\Dao.pdb
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega_3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega_3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega_3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega_3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega_3\Negocio\obj\Debug\Negocio.dll
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega_3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\elico\OneDrive\Escritorio\Entrega_3\Negocio\bin\Debug\Negocio.dll
+C:\Users\elico\OneDrive\Escritorio\Entrega_3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\elico\OneDrive\Escritorio\Entrega_3\Negocio\bin\Debug\Dao.dll
+C:\Users\elico\OneDrive\Escritorio\Entrega_3\Negocio\bin\Debug\Entidades.dll
+C:\Users\elico\OneDrive\Escritorio\Entrega_3\Negocio\bin\Debug\Dao.pdb
+C:\Users\elico\OneDrive\Escritorio\Entrega_3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\elico\OneDrive\Escritorio\Entrega_3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\elico\OneDrive\Escritorio\Entrega_3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\elico\OneDrive\Escritorio\Entrega_3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\elico\OneDrive\Escritorio\Entrega_3\Negocio\obj\Debug\Negocio.dll
+C:\Users\elico\OneDrive\Escritorio\Entrega_3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\PAIS GAMER\Desktop\Entrega 3\Negocio\bin\Debug\Negocio.dll
+C:\Users\PAIS GAMER\Desktop\Entrega 3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\PAIS GAMER\Desktop\Entrega 3\Negocio\bin\Debug\Dao.dll
+C:\Users\PAIS GAMER\Desktop\Entrega 3\Negocio\bin\Debug\Entidades.dll
+C:\Users\PAIS GAMER\Desktop\Entrega 3\Negocio\bin\Debug\Dao.pdb
+C:\Users\PAIS GAMER\Desktop\Entrega 3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\PAIS GAMER\Desktop\Entrega 3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\PAIS GAMER\Desktop\Entrega 3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PAIS GAMER\Desktop\Entrega 3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\PAIS GAMER\Desktop\Entrega 3\Negocio\obj\Debug\Negocio.dll
+C:\Users\PAIS GAMER\Desktop\Entrega 3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\elico\OneDrive\Escritorio\FINAL\Entrega 3\Negocio\bin\Debug\Negocio.dll
+C:\Users\elico\OneDrive\Escritorio\FINAL\Entrega 3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\elico\OneDrive\Escritorio\FINAL\Entrega 3\Negocio\bin\Debug\Dao.dll
+C:\Users\elico\OneDrive\Escritorio\FINAL\Entrega 3\Negocio\bin\Debug\Entidades.dll
+C:\Users\elico\OneDrive\Escritorio\FINAL\Entrega 3\Negocio\bin\Debug\Dao.pdb
+C:\Users\elico\OneDrive\Escritorio\FINAL\Entrega 3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\elico\OneDrive\Escritorio\FINAL\Entrega 3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\elico\OneDrive\Escritorio\FINAL\Entrega 3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\elico\OneDrive\Escritorio\FINAL\Entrega 3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\elico\OneDrive\Escritorio\FINAL\Entrega 3\Negocio\obj\Debug\Negocio.dll
+C:\Users\elico\OneDrive\Escritorio\FINAL\Entrega 3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\PAIS GAMER\Desktop\Entrega 3 Ultima version mia\Negocio\bin\Debug\Negocio.dll
+C:\Users\PAIS GAMER\Desktop\Entrega 3 Ultima version mia\Negocio\bin\Debug\Negocio.pdb
+C:\Users\PAIS GAMER\Desktop\Entrega 3 Ultima version mia\Negocio\bin\Debug\Dao.dll
+C:\Users\PAIS GAMER\Desktop\Entrega 3 Ultima version mia\Negocio\bin\Debug\Entidades.dll
+C:\Users\PAIS GAMER\Desktop\Entrega 3 Ultima version mia\Negocio\bin\Debug\Dao.pdb
+C:\Users\PAIS GAMER\Desktop\Entrega 3 Ultima version mia\Negocio\bin\Debug\Entidades.pdb
+C:\Users\PAIS GAMER\Desktop\Entrega 3 Ultima version mia\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\PAIS GAMER\Desktop\Entrega 3 Ultima version mia\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PAIS GAMER\Desktop\Entrega 3 Ultima version mia\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\PAIS GAMER\Desktop\Entrega 3 Ultima version mia\Negocio\obj\Debug\Negocio.dll
+C:\Users\PAIS GAMER\Desktop\Entrega 3 Ultima version mia\Negocio\obj\Debug\Negocio.pdb
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega 3\Negocio\bin\Debug\Negocio.dll
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega 3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega 3\Negocio\bin\Debug\Dao.dll
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega 3\Negocio\bin\Debug\Entidades.dll
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega 3\Negocio\bin\Debug\Dao.pdb
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega 3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega 3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega 3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega 3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega 3\Negocio\obj\Debug\Negocio.dll
+C:\Users\tyrae\OneDrive\Desktop\prog 3\tp\Entrega 3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\PAIS GAMER\Desktop\La Divina Comida\Negocio\bin\Debug\Negocio.dll
+C:\Users\PAIS GAMER\Desktop\La Divina Comida\Negocio\bin\Debug\Negocio.pdb
+C:\Users\PAIS GAMER\Desktop\La Divina Comida\Negocio\bin\Debug\Dao.dll
+C:\Users\PAIS GAMER\Desktop\La Divina Comida\Negocio\bin\Debug\Entidades.dll
+C:\Users\PAIS GAMER\Desktop\La Divina Comida\Negocio\bin\Debug\Dao.pdb
+C:\Users\PAIS GAMER\Desktop\La Divina Comida\Negocio\bin\Debug\Entidades.pdb
+C:\Users\PAIS GAMER\Desktop\La Divina Comida\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\PAIS GAMER\Desktop\La Divina Comida\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PAIS GAMER\Desktop\La Divina Comida\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\PAIS GAMER\Desktop\La Divina Comida\Negocio\obj\Debug\Negocio.dll
+C:\Users\PAIS GAMER\Desktop\La Divina Comida\Negocio\obj\Debug\Negocio.pdb
+C:\Users\PAIS GAMER\Desktop\La Divina Comida + BD\La Divina Comida\Negocio\bin\Debug\Negocio.dll
+C:\Users\PAIS GAMER\Desktop\La Divina Comida + BD\La Divina Comida\Negocio\bin\Debug\Negocio.pdb
+C:\Users\PAIS GAMER\Desktop\La Divina Comida + BD\La Divina Comida\Negocio\bin\Debug\Dao.dll
+C:\Users\PAIS GAMER\Desktop\La Divina Comida + BD\La Divina Comida\Negocio\bin\Debug\Entidades.dll
+C:\Users\PAIS GAMER\Desktop\La Divina Comida + BD\La Divina Comida\Negocio\bin\Debug\Dao.pdb
+C:\Users\PAIS GAMER\Desktop\La Divina Comida + BD\La Divina Comida\Negocio\bin\Debug\Entidades.pdb
+C:\Users\PAIS GAMER\Desktop\La Divina Comida + BD\La Divina Comida\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\PAIS GAMER\Desktop\La Divina Comida + BD\La Divina Comida\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PAIS GAMER\Desktop\La Divina Comida + BD\La Divina Comida\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\PAIS GAMER\Desktop\La Divina Comida + BD\La Divina Comida\Negocio\obj\Debug\Negocio.dll
+C:\Users\PAIS GAMER\Desktop\La Divina Comida + BD\La Divina Comida\Negocio\obj\Debug\Negocio.pdb

@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+namespace Vistas
+{
+    public partial class Contacto : System.Web.UI.Page
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            ValidationSettings.UnobtrusiveValidationMode = UnobtrusiveValidationMode.None;
+            if (this.Request.Cookies["NombreUsuario"] != null)
+            {
+                LbUsuario.Text = Request.Cookies["NombreUsuario"].Value;
+            }
+        }
+
+        protected void btnEnviar_Click(object sender, EventArgs e)
+        {
+            ScriptManager.RegisterClientScriptBlock(this, this.GetType(), "alertMessage", "alert('¡Consulta enviada!'); window.location.href = 'Menu.aspx';", true);
+        }
+    }
+}
